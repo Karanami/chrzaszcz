@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPS25961DRVR
+D Hot Swap Voltage Controllers 2.7-V to 19-V 100-mO eFuse with overvoltage, overcurrent and short-circuit protection
+K
+F https://www.ti.com/lit/ds/symlink/tps25961.pdf
+$ENDCMP
+#
+#End Doc Library

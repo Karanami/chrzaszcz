@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "TPS25961DRVR")(type "KiCad")(uri "${KIPRJMOD}/libs/TPS25961DRVR")(options "")(descr ""))
+)

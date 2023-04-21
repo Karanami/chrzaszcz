@@ -1,0 +1,12 @@
+STM32L451CCU6 - QFN50P700X700X65-49N-D
+STM32L451REI6 - BGA64C50P8X8_500X500X60
+STM32L452REY6TR - BGA64C40P8X8_336X366X58
+STM32L462VEI6 - BGA100C50P12X12_700X700X60
+
+STM32G474CEU6 - https://www.mouser.pl/ProductDetail/STMicroelectronics/STM32G474CEU6?qs=PzGy0jfpSMvczLLzMNbcpg%3D%3D
+STM32G473CEU6 - https://www.mouser.pl/ProductDetail/STMicroelectronics/STM32G473CEU6?qs=uwxL4vQweFNR9dwvFWWm2Q%3D%3D
+STM32G473CCU6 - https://www.mouser.pl/ProductDetail/STMicroelectronics/STM32G473CCU6?qs=uwxL4vQweFMrxvjQuF%252BqGA%3D%3D
+STM32G484CEU6 - https://www.mouser.pl/ProductDetail/STMicroelectronics/STM32G484CEU6?qs=uwxL4vQweFNyvzDDAcwe0g%3D%3D
+STM32G4A1KEU6 - https://www.mouser.pl/ProductDetail/STMicroelectronics/STM32G4A1KEU6?qs=eP2BKZSCXI7sopW1JQ5%252BSQ%3D%3D
+
+https://www.st.com/content/st_com/en/campaigns/vl53l7cx-time-of-flight-sensor-multizone.html?ecmp=tt30655_gl_ps_jan2023&aw_kw=tof%20distance%20sensor&aw_m=e&aw_c=19929322690&aw_tg=aud-2006076244749:kwd-365444430953&aw_gclid=CjwKCAjw3POhBhBQEiwAqTCuBmn8PBzkEM0azDY4Ebf87ncYnUw7WykrvBWnWhbSD-tW57QnOWcdmRoCgvwQAvD_BwE&gclid=CjwKCAjw3POhBhBQEiwAqTCuBmn8PBzkEM0azDY4Ebf87ncYnUw7WykrvBWnWhbSD-tW57QnOWcdmRoCgvwQAvD_BwE

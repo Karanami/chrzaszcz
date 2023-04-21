@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "TPS25961DRVR")(type "KiCad")(uri "${KIPRJMOD}/libs/eFuse/TPS25961DRVR/TPS25961DRVR.kicad_sym")(options "")(descr ""))
+  (lib (name "LDLN015PU28R")(type "KiCad")(uri "${KIPRJMOD}/libs/LDO/LDLN015PU28R/LDLN015PU28R.kicad_sym")(options "")(descr ""))
+  (lib (name "LDO")(type "KiCad")(uri "${KIPRJMOD}/libs/LDO/LDO.kicad_sym")(options "")(descr ""))
+  (lib (name "other")(type "KiCad")(uri "${KIPRJMOD}/libs/other/other.kicad_sym")(options "")(descr ""))
+)
